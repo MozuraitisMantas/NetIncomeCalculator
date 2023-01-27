@@ -1,4 +1,4 @@
-# Changelog for `net-income-calculator`
+# Changelog for `NetIncomeCalculator`
 
 All notable changes to this project will be documented in this file.
 
